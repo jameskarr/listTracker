@@ -1,0 +1,12 @@
+.container, .lead, .display-3, form {
+    padding: 1rem;
+}
+
+h1 {
+    color: red;
+}
+
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
