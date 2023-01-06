@@ -1,6 +1,6 @@
 # iStore Lists
 
-![alt tag](https://jameskarr.netlify.app/images/listTracker.gif)
+![alt tag](https://i.ibb.co/8gNkF82/list-Tracker.gif)
 
 ## How It's Made:
 **Tech used:** MongoDB, EJS, Express.js, Node.js, & Bootstrap
